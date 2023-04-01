@@ -16,7 +16,7 @@ font-family: 'Raleway', sans-serif;
 font-style: normal;
 font-weight: 800;
 font-size: 18px;
-line-height: 1.16;
+line-height: 1,16;
 /* identical to box height, or 117% */
 display: flex;
 align-items: center;
@@ -35,7 +35,7 @@ font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
-line-height: 1.5;
+line-height: 1,5;
 /* identical to box height, or 150% */
 
 letter-spacing: 0.02em;
@@ -51,7 +51,7 @@ font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1.5;
+line-height: 1,5;
 /* identical to box height, or 150% */
 
 letter-spacing: 0.02em;
@@ -66,7 +66,7 @@ font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
-line-height: 1.5;
+line-height: 1,5;
 /* identical to box height, or 150% */
 
 letter-spacing: 0.02em;
@@ -87,7 +87,7 @@ font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 700;
 font-size: 56px;
-line-height: 1.07;
+line-height: 1,07;
 /* or 107% */
 
 text-align: center;
@@ -102,7 +102,7 @@ font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
-line-height: 1.5;
+line-height: 1,5;
 /* identical to box height, or 150% */
 
 display: flex;
