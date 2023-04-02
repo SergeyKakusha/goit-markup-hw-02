@@ -31,6 +31,11 @@ letter-spacing: 0.02em;
 color: #2E2F42;
 }
 
+.menu-link:hover,
+.menu-link:focus {
+    color: #404BBF;;
+}
+
 
   .address-mailto {
 font-family: 'Roboto', sans-serif;
@@ -60,27 +65,27 @@ color: #434455;
 }  
 
 .main-title {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 700;
-    font-size: 56px;
-    line-height: 1.07;
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: #FFFFFF;
-    width: 1440px;
-    height: 600px;
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07;
+text-align: center;
+letter-spacing: 0.02em;
+color: #FFFFFF;
+width: 1440px;
+height: 600px;
 
 }
-.service-btn {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    display: flex;
-     align-items: center;
-    letter-spacing: 0.04em;
+.modal-btn {
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
 
 color: #FFFFFF;
 background: #4D5AE5;
@@ -90,10 +95,18 @@ height: 56px;
 
 }
 
+.modal-btn:hover,
+.modal-btn:focus {
+background: #404BBF;
+color: #FFFFFF;
+}
+
+
+
 /* Section 1 */
 
 .distinctive-features-header {
-font-family: 'Roboto';
+font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
@@ -103,7 +116,7 @@ color: #2E2F42;
 }
 
 .distinctive-features-text {
-font-family: 'Roboto';
+font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
