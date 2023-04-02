@@ -215,31 +215,25 @@ color: #F4F4FD;
 
 /* Portfolio */
 
-.filter-portfolio-all {
-font-family: 'Roboto', sans-serif;
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-cursor: pointer;
-
-letter-spacing: 0.04em;
-color: #FFFFFF;
-background: #404BBF;
+.portfolio-btn:hover,
+.portfolio-btn:focus {
+    background: #404BBF;
+    color: #FFFFFF;
 }
 
-.filter-portfolio {
+.portfolio-btn {
 font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 cursor: pointer;
-
 letter-spacing: 0.04em;
 color: #4D5AE5;
 background: #F4F4FD;
 }
+
+
 
 
 .menu-portfolio {
