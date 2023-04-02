@@ -186,8 +186,8 @@ font-style: normal;
 font-weight: 800;
 font-size: 18px;
 line-height: 1.17;
-display: flex;
-align-items: center;
+
+
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #F4F4FD;
@@ -212,28 +212,24 @@ color: #F4F4FD;
 /* Portfolio */
 
 .filter-portfolio-all {
-font-family: 'Roboto';
+font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 24px;
-display: flex;
-align-items: center;
-text-align: center;
+
 letter-spacing: 0.04em;
 color: #FFFFFF;
 background: #404BBF;
 }
 
 .filter-portfolio {
-font-family: 'Roboto';
+font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 24px;
-display: flex;
-align-items: center;
-text-align: center;
+
 letter-spacing: 0.04em;
 color: #4D5AE5;
 background: #F4F4FD;
@@ -241,7 +237,7 @@ background: #F4F4FD;
 
 
 .menu-portfolio {
-font-family: 'Roboto';
+font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 500;
 font-size: 20px;
@@ -251,12 +247,12 @@ color: #2E2F42;
 }
 
 .portfolio-text {
-font-family: 'Roboto';
+font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
-letter-spacing: 0.02em;
+
 color: #434455;
 }
 
