@@ -80,6 +80,7 @@ letter-spacing: 0.02em;
 color: #FFFFFF;
 width: 1440px;
 height: 600px;
+text-align: center;
 
 }
 .modal-btn {
@@ -91,6 +92,7 @@ line-height: 1.5;
 display: flex;
 align-items: center;
 letter-spacing: 0.04em;
+align-items: center;
 
 color: #FFFFFF;
 background: #4D5AE5;
@@ -140,6 +142,7 @@ font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
+text-align: center;
 color: #2E2F42;
 }
 
@@ -154,6 +157,7 @@ font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
+text-align: center;
 color: #2E2F42;
 }
 
