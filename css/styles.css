@@ -282,25 +282,20 @@ background: #2E2F42;
     letter-spacing: 0.02em;
     color: #434455;
     }         
-/* Portfolio */
+/* Portfolio-btn */
 
 .portfolio-btn-list:hover,
 .portfolio-btn-list:focus {
-    background: #404BBF;
     color: #FFFFFF;
+    background-color: #404BBF;
 }
 
 .portfolio-btn-list {
-font-family: 'Roboto', sans-serif;
-font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
-cursor: pointer;
 letter-spacing: 0.04em;
 color: #4D5AE5;
-background: #F4F4FD;
+background-color:#F4F4FD;
+cursor: pointer;
 }
-
-
-
