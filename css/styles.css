@@ -172,6 +172,15 @@ color: #2E2F42;
 
 /* Section 3 */
 
+.our-team {
+    position: absolute;
+width: 1440px;
+height: 732px;
+left: 0px;
+top: 1548px;
+background: #F4F4FD;
+}
+
 .our-team-header {
 font-family: 'Roboto', sans-serif;
 font-style: normal;
