@@ -181,6 +181,10 @@ top: 1548px;
 background: #F4F4FD;
 }
 
+.img {
+    background-color: #FFFFFF
+}
+
 .our-team-header {
 font-family: 'Roboto', sans-serif;
 font-style: normal;
