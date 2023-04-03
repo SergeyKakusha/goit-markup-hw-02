@@ -257,7 +257,7 @@ background: #F4F4FD;
 
 
 
-.menu-portfolio {
+.menu-portfolio-list {
 font-family: 'Roboto', sans-serif;
 font-weight: 500;
 font-size: 20px;
@@ -278,6 +278,7 @@ color: #434455;
 
 /*Portfolio-H  */
 .header-portfolio-list {
+font-family: 'Roboto', sans-serif;
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
