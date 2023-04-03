@@ -247,33 +247,8 @@ background: #2E2F42;
 }
 /* Portfolio */
     
-.filter-portfolio {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.04em;
-    color: #4D5AE5;
-    background: #F4F4FD;
-    cursor: pointer;
-    }
-    
-    
-    .menu-portfolio {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-    }
-    
-    .portfolio-text {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 0.02em;
-    color: #434455;
-    }         
-/* Portfolio-btn */
+
+    /* Portfolio-btn */
 
 .portfolio-btn-list:hover,
 .portfolio-btn-list:focus {
@@ -290,3 +265,18 @@ color: #4D5AE5;
 background-color:#F4F4FD;
 cursor: pointer;
 }
+
+.menu-portfolio-list {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    }
+.portfolio-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    }         
