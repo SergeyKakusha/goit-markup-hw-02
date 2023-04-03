@@ -239,10 +239,12 @@ color: #F4F4FD;
 
 /* Portfolio */
 
-.portfolio-btn-listn:hover,
-.portfolio-btn-list:focus {
+.portfolio-btn-list:hover,
+.portfolio-btn-list:focus 
+{
     background: #404BBF;
-    color: #FFFFFF
+
+    color:#FFFFFF
 }
 
 .portfolio-btn-list {
