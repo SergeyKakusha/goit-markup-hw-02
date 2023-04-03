@@ -49,7 +49,7 @@ color: #2E2F42;
    }
 
 
-  .address-mailto {
+.address {
 font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 400;
@@ -59,16 +59,16 @@ letter-spacing: 0.02em;
 color: #434455;
 } 
 
-.contacts {
+.address {
     font-style: normal;
 }
 
-.address-mailto:hover,
-.address-mailto:focus {
+.address:hover,
+.address:focus {
     color: #404BBF;
 }
 
-.contact-phone-number {
+.address {
 font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 400;
