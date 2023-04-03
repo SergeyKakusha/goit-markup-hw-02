@@ -1,5 +1,6 @@
 body {
-    font-family: 'Raleway', sans-serif;
+    
+    
     font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color: #FFFFFF;
@@ -33,8 +34,6 @@ color:#4d5ae5
    
    
     .menu-link {
-font-family: 'Roboto', sans-serif;
-font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -54,8 +53,6 @@ color: #2E2F42;
 
 
 .address {
-font-family: 'Roboto', sans-serif;
-font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px;
@@ -71,8 +68,6 @@ color: #434455;
 }
 
 .addressa {
-font-family: 'Roboto', sans-serif;
-font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
@@ -94,35 +89,23 @@ color: #434455;
 }  
 
 .main-title {
-font-family: 'Roboto', sans-serif;
-font-style: normal;
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
-text-align: center;
 letter-spacing: 0.02em;
 color: #FFFFFF;
-width: 1440px;
-height: 600px;
-text-align: center;
+
 
 }
 .modal-btn {
-font-family: 'Roboto', sans-serif;
-font-style: normal;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
-display: flex;
-align-items: center;
 letter-spacing: 0.04em;
-
-
 color: #FFFFFF;
 background: #4D5AE5;
 cursor: pointer;
-width: 169px;
-height: 56px;
+
 
 }
 
@@ -137,8 +120,6 @@ color: #FFFFFF;
 /* Section 1 */
 
 .distinctive-features-header {
-font-family: 'Roboto', sans-serif;
-font-style: normal;
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -147,8 +128,6 @@ color: #2E2F42;
 }
 
 .distinctive-features-text {
-font-family: 'Roboto', sans-serif;
-font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
@@ -159,48 +138,33 @@ color: #434455;
 /* Section 2 */
 
 .our-work-header {
-font-family: 'Roboto', sans-serif;
-font-style: normal;
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
-text-align: center;
 color: #2E2F42;
 }
 
 
 /* Section 3 */
 
-.our-team {
-    position: absolute;
-width: 1440px;
-height: 732px;
-left: 0px;
-top: 1548px;
-background: #F4F4FD;
-}
+
 
 .img {
     background-color: #FFFFFF
 }
 
 .our-team-header {
-font-family: 'Roboto', sans-serif;
-font-style: normal;
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
-text-align: center;
 color: #2E2F42;
 }
 
 .team-member-name {
-font-family: 'Roboto', sans-serif;
-font-style: normal;
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -210,8 +174,6 @@ color: #2E2F42;
 }
 
 .our-team-text {
-font-family: 'Roboto', sans-serif;
-font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
