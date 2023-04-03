@@ -259,7 +259,6 @@ background: #F4F4FD;
 
 .menu-portfolio {
 font-family: 'Roboto', sans-serif;
-
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -277,6 +276,14 @@ line-height: 1.5;
 color: #434455;
 }
 
+/*Portfolio-H  */
+.header-portfolio-list {
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
 
+}
 
 
