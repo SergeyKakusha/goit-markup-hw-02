@@ -284,13 +284,13 @@ background: #2E2F42;
     }         
 /* Portfolio */
 
-.portfolio-btn:hover,
-.portfolio-btn:focus {
+.portfolio-btn-list:hover,
+.portfolio-btn-list:focus {
     background: #404BBF;
     color: #FFFFFF;
 }
 
-.portfolio-btn {
+.portfolio-btn-list {
 font-family: 'Roboto', sans-serif;
 font-style: normal;
 font-weight: 500;
@@ -301,5 +301,6 @@ letter-spacing: 0.04em;
 color: #4D5AE5;
 background: #F4F4FD;
 }
+
 
 
