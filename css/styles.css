@@ -59,6 +59,10 @@ letter-spacing: 0.02em;
 color: #434455;
 } 
 
+.contacts {
+    font-style: normal;
+}
+
 .address-mailto:hover,
 .address-mailto:focus {
     color: #404BBF;
