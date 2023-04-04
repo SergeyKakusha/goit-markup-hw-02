@@ -155,6 +155,7 @@ background-color: #F4F4FD
 
 /* Section 3 */
 .our-team {
+    
     background-color: #F4F4FD
 }
 
@@ -165,6 +166,7 @@ background-color: #F4F4FD
 }
 
 .our-team-header {
+text-align: center;
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
