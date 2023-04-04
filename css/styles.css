@@ -90,7 +90,6 @@ color: #434455;
 }  
 
 .main-title {
-    font-family: 'Roboto', sans-serif;
 font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
@@ -124,6 +123,7 @@ color: #FFFFFF;
 /* Section 1 */
 
 .distinctive-features-header {
+text-align: center;
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -142,6 +142,7 @@ color: #434455;
 /* Section 2 */
 
 .our-work-header {
+text-align: center;
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
@@ -153,6 +154,9 @@ background-color: #F4F4FD
 
 
 /* Section 3 */
+.our-team {
+    background-color: #F4F4FD
+}
 
 
 
