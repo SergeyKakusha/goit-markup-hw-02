@@ -200,11 +200,9 @@ font-style: normal;
 font-weight: 800;
 font-size: 18px;
 line-height: 1.17;
-
-
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #4D5AE5;
+color:#4D5AE5;
 }
 
 /* colorr-footer-logo */
@@ -235,23 +233,7 @@ color: #F4F4FD;
     /* Portfolio-btn */
 
     
-    /* Portfolio */
-        
-        .filter-portfolio {
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 24px;
-        display: flex;
-        align-items: center;
-        text-align: center;
-        letter-spacing: 0.04em;
-        color: #4D5AE5;
-        background: #F4F4FD;
-        cursor: pointer;
-        }
-        
+    
         
         .menu-portfolio {
         font-family: 'Roboto';
