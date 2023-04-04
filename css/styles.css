@@ -276,11 +276,9 @@ color: #F4F4FD;
     
     .portfolio-btn-list:hover,
     .portfolio-btn-list:focus {
-        color: #FFFFFF;
-        background: #404BBF;
-    }
-    
-    
+    background: #404BBF;
+    color: #FFFFFF;
+}
 
 .portfolio-btn-list {
 font-family: "Roboto", sans-serif; 
