@@ -208,6 +208,17 @@ width: 1440px;
 height: 312px;
 background: #2E2F42;
 }
+
+.footer-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #F4F4FD;
+}
+
+
+
 /* Portfolio */
     
 
@@ -220,7 +231,6 @@ background: #2E2F42;
 }
 
 .portfolio-btn-list {
-font-family: 'Roboto', sans-serif;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
