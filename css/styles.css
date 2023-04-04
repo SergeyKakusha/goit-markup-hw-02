@@ -236,8 +236,9 @@ color: #F4F4FD;
 
 .portfolio-btn-list:hover,
 .portfolio-btn-list:focus {
-    color: #FFFFFF;
+    
     background-color: #404BBF;
+    color: #404bbf;
 }
 
 .portfolio-btn-list {
