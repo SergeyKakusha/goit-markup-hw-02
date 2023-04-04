@@ -235,25 +235,7 @@ color: #F4F4FD;
     
     
         
-        .menu-portfolio {
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 500;
-        font-size: 20px;
-        line-height: 24px;
-        letter-spacing: 0.02em;
-        color: #2E2F42;
-        }
-        
-        .portfolio-text {
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 24px;
-        letter-spacing: 0.02em;
-        color: #434455;
-        }         
+       
     /* Portfolio */
     
     .portfolio-btn-list:hover,
@@ -273,7 +255,7 @@ background-color:#F4F4FD;
 cursor: pointer;
 }
 
-.portfolio-list {
+.menu-portfolio {
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
