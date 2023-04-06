@@ -1,16 +1,14 @@
+:root {
+    --accent-color: #2e2f42;
+  }
+
+
 body {
     font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
-:root {
-    brand-color: #4D5AE5;
-  }
 
-:root {
-    accent-color: #ff6c00;
-}
-     
 .list {
 list-style: none;
 }
